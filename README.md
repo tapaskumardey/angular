@@ -6,13 +6,13 @@ yarn init
 
 yarn add angular
 
-yarn add angular-route
+yarn add angular-ui-router
 
 yarn add gulp --dev
 
 yarn add gulp-concat --dev
 
-npm install --save del
+yarn add del --dev
 
 yarn add run-sequence --dev
 
